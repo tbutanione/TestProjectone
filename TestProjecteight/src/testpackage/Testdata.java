@@ -7,6 +7,7 @@ public class Testdata {
 
 		System.out.println("Testdata");
 		Thread.sleep(1000);
+		Thread.sleep(1000);
 	}
 
 }
