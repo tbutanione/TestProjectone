@@ -21,6 +21,7 @@ public class RSATest {
 		Driver.manage().window().maximize();
 		Thread.sleep(2000);
 		Thread.sleep(2000);
+		System.out.println("This is test data");
 		
 	}
 
